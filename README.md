@@ -1,0 +1,2 @@
+# detect
+Detect Launcher releases
